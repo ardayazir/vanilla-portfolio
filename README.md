@@ -28,7 +28,7 @@ Minimal and responsive portfolio website built with pure HTML, CSS and Vanilla J
 This project was built to strengthen core frontend fundamentals without using any frameworks.
 
 ## 📷 Preview
-.
+![Portfolio Preview](/Preview/p1.png)
 
 ## 📄 License
 MIT License
