@@ -29,6 +29,7 @@ This project was built to strengthen core frontend fundamentals without using an
 
 ## 📷 Preview
 ![Portfolio Preview](/Preview/p1.png)
+![Portfolio Preview 2](/Preview/p2.png)
 
 ## 📄 License
 MIT License
