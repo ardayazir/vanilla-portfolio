@@ -3,7 +3,7 @@
 Minimal and responsive portfolio website built with pure HTML, CSS and Vanilla JavaScript.
 
 ## 🚀 Live Demo
-.
+https://ardayazir.github.io/vanilla-portfolio/
 
 ## 🛠️ Built With
 
